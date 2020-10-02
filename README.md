@@ -25,3 +25,13 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 - [5 Google Chrome Extensions for Every Designer](https://dev.to/surajsrv11/5-google-chrome-extension-for-every-designer-8hd)
 - [5 Netflix Documentaries For Every Designer](https://dev.to/surajsrv11/5-netflix-documentaries-for-every-designer-3a4g)
 - [Read more blog on dev.to ....](https://dev.to/surajsrv11)
+
+---
+
+### Connect with me:
+
+[<img align="left" alt="surajsrv11 | DEV" width="22px" src="https://www.codemade.io/wp-content/uploads/2020/09/nodegui-react-component-by-component-dev-1600486961gnk48.png" />][DEV.TO]
+[<img align="left" alt="surajsrv11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="surajsrv11 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
