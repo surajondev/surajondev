@@ -10,7 +10,7 @@
 
 ---
 
-### My intro 
+### 👨‍💻 My intro 
 - 🔭 I’m aplha head of Student Developer Club.
 - ⚛️ I’m currently learning react.
 - 📝 I love to write blog post on technology as well as general topic.
@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 Dev Blog Post
+### 📓 Dev Blog Post
 You can read me on dev.to. Here are some of my blog from dev.to.
 
 - [Why most developers prefer the dark theme IDE?](https://dev.to/surajsrv11/why-most-developers-prefer-the-dark-theme-ide-1ml7)
