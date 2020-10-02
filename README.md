@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**surajsrv11/surajsrv11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Introduction
+
 
 ### This is Suraj Vishwakarma 
 
@@ -10,6 +8,7 @@
 
 ## I am a programmer, Graphic Designer, Animator and an IT student.
 
+---
 
 ### My intro 
 - 🔭 I’m aplha head of Student Developer Club.
@@ -17,6 +16,7 @@
 - 📝 I love to write blog post on technology as well as general topic.
 - ⚡ Fun fact: I love old hindi songs...
 
+---
 
 ### 👨‍💻 Dev Blog Post
 You can read me on dev.to. Here are some of my blog from dev.to.
