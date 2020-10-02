@@ -16,7 +16,8 @@
 - ⚛️ I’m currently learning react.
 - 📝 I love to write blog post on technology as well as general topic.
 - ⚡ Fun fact: I love old hindi songs...
--->
+
+
 <hr>
 
 ### 👨‍💻 Dev Blog Post
