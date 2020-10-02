@@ -24,7 +24,7 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 - [🖤 Why most developers prefer the dark theme IDE?](https://dev.to/surajsrv11/why-most-developers-prefer-the-dark-theme-ide-1ml7)
 - [🌐 5 Google Chrome Extensions for Every Designer](https://dev.to/surajsrv11/5-google-chrome-extension-for-every-designer-8hd)
 - [🍿 5 Netflix Documentaries For Every Designer](https://dev.to/surajsrv11/5-netflix-documentaries-for-every-designer-3a4g)
-- [📚 Read more blog on dev.to ....](https://dev.to/surajsrv11)
+- [📚 Read more blog post on dev.to ....](https://dev.to/surajsrv11)
 
 ---
 
