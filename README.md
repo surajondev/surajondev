@@ -18,8 +18,6 @@
 - ⚡ Fun fact: I love old hindi songs...
 
 
-<hr>
-
 ### 👨‍💻 Dev Blog Post
 You can read me on dev.to. Here are some of my blog from dev.to.
 
