@@ -30,7 +30,7 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 
 ### Connect with me:
 
-[<img align="left" alt="surajsrv11 | DEV" width="22px" src="https://www.codemade.io/wp-content/uploads/2020/09/nodegui-react-component-by-component-dev-1600486961gnk48.png" />](https://dev.to/surajsrv11)
+[<img align="left" alt="surajsrv11 | DEV" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />](https://dev.to/surajsrv11)
 [<img align="left" alt="surajsrv11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/surajsrv11)
 [<img align="left" alt="surajsrv11 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/surajsrv11)
 
