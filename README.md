@@ -27,11 +27,6 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 - [🍿 5 Netflix Documentaries For Every Designer](https://dev.to/surajsrv11/5-netflix-documentaries-for-every-designer-3a4g)
 - [📚 Read more blog post on dev.to ....](https://dev.to/surajsrv11)
 
-### 📓 Dev Blog Badges
-
-[![Suraj Vishwakarma's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/surajsrv11)
-
-
 ---
 
 ### 🔗 Connect with me:
