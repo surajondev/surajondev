@@ -28,6 +28,16 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 - [📚 Read more blog post on dev.to ....](https://dev.to/surajsrv11)
 
 ---
+## Github Stats
+
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajsrv11&show_icons=true&theme=radical)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
 ### 🔗 Connect with me:
 
