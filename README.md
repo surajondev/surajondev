@@ -30,11 +30,11 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 ---
 ## Github Stats
 
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajsrv11&show_icons=true&theme=radical)
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajondev&show_icons=true&theme=radical)
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajondev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
