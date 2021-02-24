@@ -41,7 +41,7 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="surajsrv11 | DEV" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />](https://dev.to/surajsrv11)
-[<img align="left" alt="surajsrv11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/surajsrv11)
-[<img align="left" alt="surajsrv11 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/surajsrv11)
+[<img align="left" alt="surajondev | DEV" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />](https://dev.to/surajondev)
+[<img align="left" alt="surajondev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/surajondev)
+[<img align="left" alt="surajondev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/surajsrv11)
 
