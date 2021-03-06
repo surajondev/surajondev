@@ -21,6 +21,7 @@
 ### 📓 Dev Blog Post
 You can read me on dev.to. Here are some of my blog from dev.to.
 
+- [🎰 Algorithms Every Programmer Should Know](https://dev.to/surajondev/algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3)
 - [📱 CSS Tips to start thinking responsive Website](https://dev.to/surajsrv11/css-tips-to-start-thinking-responsive-website-1ohh)
 - [🖤 Why most developers prefer the dark theme IDE?](https://dev.to/surajsrv11/why-most-developers-prefer-the-dark-theme-ide-1ml7)
 - [🌐 5 Google Chrome Extensions for Every Designer](https://dev.to/surajsrv11/5-google-chrome-extension-for-every-designer-8hd)
