@@ -43,6 +43,10 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 
 ---
 
+![Profile views](https://gpvc.arturio.dev/surajondev)
+
+---
+
 ### 🔗 Connect with me:
 
 [<img align="left" alt="surajondev | DEV" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />](https://dev.to/surajondev)
