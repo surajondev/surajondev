@@ -26,8 +26,8 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 - [⭐How to contribute to forem(DEV on GitHub)?](https://surajondev.wordpress.com/2021/03/19/how-to-contribute-to-forem/)
 - [🌐Create Chrome Extension With HTML, CSS, and JavaScript](https://dev.to/surajondev/create-chrome-extension-with-html-css-and-javascript-4ofd)
 - [🎰 Algorithms Every Programmer Should Know](https://surajondev.wordpress.com/2021/02/15/algorithms-every-programmer-should-know-part-1-searching-algorithm/)
-- [📱 CSS Tips to start thinking responsive Website](https://dev.to/surajsrv11/css-tips-to-start-thinking-responsive-website-1ohh)
-- [📚 Read more blog post on dev.to ....](https://dev.to/surajsrv11)
+- [📱 CSS Tips to start thinking responsive Website](https://surajondev.wordpress.com/2021/02/12/css-tips-to-start-thinking-responsive-website/)
+- [📚 Read more blog post on SurajOnDev ....](https://surajondev.wordpress.com/)
 
 ---
 ## Github Stats
