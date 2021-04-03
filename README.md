@@ -8,9 +8,6 @@
 
 ## I am a programmer, Graphic Designer, Animator and an IT student.
 
-![f2px36fy](https://user-images.githubusercontent.com/67496096/113435477-852a8800-9400-11eb-80e5-2007bc6cbb56.gif)
-
-
 ---
 
 ### 👨‍💻 My intro 
