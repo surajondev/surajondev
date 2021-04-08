@@ -43,6 +43,6 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 ### 🔗 Connect with me:
 
 [<img align="left" alt="surajondev | DEV" width="22px" src="https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_400x400.jpg" />](https://dev.to/surajondev)
-[<img align="left" alt="surajondev | Twitter" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />](https://twitter.com/surajondev)
+[<img align="left" alt="surajondev | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />](https://twitter.com/surajondev)
 [<img align="left" alt="surajondev | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/surajsrv11)
 [<img align="left" alt="surajondev | SurajOnDev" width="22px" src="https://user-images.githubusercontent.com/67496096/114044816-2bfda100-98a5-11eb-8331-159e16f7a6d2.png" />](https://linkedin.com/surajsrv11)
