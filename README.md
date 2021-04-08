@@ -45,6 +45,5 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 [<img align="left" alt="surajondev | DEV" width="22px" src="https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_400x400.jpg" />](https://dev.to/surajondev)
 [<img align="left" alt="surajondev | Twitter" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />](https://twitter.com/surajondev)
 [<img align="left" alt="surajondev | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/surajsrv11)
-[<img align="left" alt="surajondev | SurajOnDev" width="22px" src="![logo-icon-whiteArtboard 1 copy](https://user-images.githubusercontent.com/67496096/114044651-06709780-98a5-11eb-82ec-79540a37bbb2.png)
-" />](https://linkedin.com/surajsrv11)
+
 
