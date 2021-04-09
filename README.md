@@ -34,6 +34,8 @@ You can read me on dev.to. Here are some of my blog from dev.to.
 
 ![SurajOnDev's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajondev&theme=dracula&layout=compact&title_color=FF69B4)
 
+---
+
 ## Github Stats
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajondev&show_icons=true&theme=radical)
