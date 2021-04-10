@@ -12,6 +12,7 @@
 
 ### 👨‍💻 My intro 
 - 🔭 I’m aplha head of Student Developer Club.
+- 
 - ⚛️ I’m currently learning react.
 - 📝 I love to write blog post on technology as well as general topic.
 - ⚡ Fun fact: I love old hindi songs...
