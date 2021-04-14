@@ -26,7 +26,6 @@ You can read me on dev.to. Here are some of my blog from SurajOnDev.
 - [📍CSS Position Property Explained!](https://surajondev.wordpress.com/2021/03/27/css-position-property-explained/)
 - [🌐Create Chrome Extension With HTML, CSS, and JavaScript](https://dev.to/surajondev/create-chrome-extension-with-html-css-and-javascript-4ofd)
 - [🎰 Algorithms Every Programmer Should Know](https://surajondev.wordpress.com/2021/02/15/algorithms-every-programmer-should-know-part-1-searching-algorithm/)
-- [📱 CSS Tips to start thinking responsive Website](https://surajondev.wordpress.com/2021/02/12/css-tips-to-start-thinking-responsive-website/)
 - [📚 Read more blog post on SurajOnDev ....](https://surajondev.wordpress.com/)
 
 ---
