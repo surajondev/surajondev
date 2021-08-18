@@ -29,11 +29,6 @@ You can read me on dev.to. Here are some of my blog from SurajOnDev.
 
 ---
 
-## GitHub Activity
-
-![SurajOnDev's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajondev&theme=dracula&layout=compact&title_color=FF69B4)
-
----
 
 ## Github Stats
 
