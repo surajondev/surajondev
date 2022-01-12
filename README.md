@@ -12,7 +12,7 @@
 
 ### 👨‍💻 My intro 
 - 🔭 I’m aplha head of Student Developer Club.
-- ⚛️ I’m currently learning react.
+- ⚛️ I’m currently learning React Native and Web 3.0.
 - 📝 I love to write blog post on technology as well as general topic.
 - ⚡ Fun fact: I love old hindi songs...
 
