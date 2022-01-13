@@ -23,7 +23,7 @@ You can read me on dev.to. Here are some of my blog from SurajOnDev.
 
 - [🎁40+ Useful Resources for Mastering Web](https://surajondev.wordpress.com/2021/04/12/40-useful-resources-for-mastering-web%f0%9f%8e%81/)
 - [⚛️4 Best UI Framework For ReactJS](https://surajondev.wordpress.com/2021/04/01/4-best-ui-framework-for-reactjs/)
-- [🌐Create Chrome Extension With HTML, CSS, and JavaScript](https://dev.to/surajondev/create-chrome-extension-with-html-css-and-javascript-4ofd)
+- [🌐20+ Open Source Project for Beginners](https://dev.to/surajondev/beginners-guide-to-starting-your-open-source-journey-1bgb)
 - [🎰 Algorithms Every Programmer Should Know](https://surajondev.wordpress.com/2021/02/15/algorithms-every-programmer-should-know-part-1-searching-algorithm/)
 - [📚 Read more blog post on SurajOnDev ....](https://surajondev.wordpress.com/)
 
