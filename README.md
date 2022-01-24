@@ -19,7 +19,7 @@
 ---
 
 ### 📓 Dev Blog Post
-You can read me on dev.to. Here are some of my blog from SurajOnDev.
+You can read me on [surajondev.com](https://surajondev.com/). Here are some of my blog from SurajOnDev.
 
 - [🎁40+ Useful Resources for Mastering Web](https://surajondev.com/2021/04/12/40-useful-resources-for-mastering-web%f0%9f%8e%81/)
 - [⚛️4 Best UI Framework For ReactJS](https://surajondev.com/2021/04/01/4-best-ui-framework-for-reactjs/)
