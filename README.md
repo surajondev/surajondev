@@ -30,6 +30,22 @@ You can read me on [surajondev.com](https://surajondev.com/). Here are some of m
 
 ---
 
+I have been writing technical blog posts on different platforms and my website since early 2020. During this period, I was able to learn many things about writing and maintaining a technical blog.
+
+In my journey, I was able to meet and collaborate with different people and organizations to produce quality and well-optimized blog posts.
+
+I have collaborated with:
+
+<div style="display:flex" >
+  <img alt="surajondev | Spurwing" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/87380658?s=280&v=4" width="100px" />
+  <img alt="surajondev | Daily Dev" style="border-radius:50%;margin-left:10px;" src="https://bit.ly/3L81K66" width="100px" />
+<img alt="surajondev | Aviyel" style="border-radius:50%;margin-left:10px;" src="https://bit.ly/34h5otG" width="100px" />
+<img alt="surajondev | Tuya Global" style="border-radius:50%;margin-left:10px;" src="https://bit.ly/3La8yAe" width="100px" />
+<img alt="surajondev | Jarchitech"  style="border-radius:50%;margin-left:10px;" src="https://bit.ly/3Jb00aB" width="100px" />
+<img alt="surajondev | LogRocket"  style="border-radius:50%;margin-left:10px;" src="https://bit.ly/34pCfMW" width="100px" />
+ </div>
+
+---
 
 ## Github Stats
 
