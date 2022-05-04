@@ -6,7 +6,7 @@
 
 *Learning and helping other people to understand technology👨‍💻*
 
-## I am a programmer, Graphic Designer, Animator and an IT student.
+## I am a Programmer and Technical Author.
 
 ---
 
