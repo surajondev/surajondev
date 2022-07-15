@@ -11,24 +11,6 @@
 ---
 
 ### 👨‍💻 My intro 
-- 🔭 I’m aplha head of Student Developer Club.
-- ⚛️ I’m currently learning React Native and Web 3.0.
-- 📝 I love to write blog post on technology as well as general topic.
-- ⚡ Fun fact: I love old hindi songs...
-
----
-
-### 📓 Dev Blog Post
-You can read me on [surajondev.com](https://surajondev.com/). Here are some of my blog from the website.
-
-- [🎁40+ Useful Resources for Mastering Web](https://surajondev.com/2021/04/12/40-useful-resources-for-mastering-web%f0%9f%8e%81/)
-- [⚛️4 Best UI Framework For ReactJS](https://surajondev.com/2021/04/01/4-best-ui-framework-for-reactjs/)
-- [🌐20+ Open Source Project for Beginners](https://dev.to/surajondev/beginners-guide-to-starting-your-open-source-journey-1bgb)
-- [🎰 Algorithms Every Programmer Should Know](https://surajondev.com/2021/02/15/algorithms-every-programmer-should-know-part-1-searching-algorithm/)
-- [🏓 What's Your Hobbies Other Than Programming?](https://dev.to/surajondev/what-s-your-hobbies-other-than-programming-3j1d)
-- [📚 Read more blog post on SurajOnDev ....](https://surajondev.com/)
-
----
 
 I have been writing technical blog posts on different platforms and my website since early 2020. During this period, I was able to learn many things about writing and maintaining a technical blog.
 
@@ -44,6 +26,18 @@ I have collaborated with:
 <img alt="surajondev | Jarchitech"  style="border-radius:50%;margin-left:10px;" src="https://bit.ly/3Jb00aB" width="100px" />
 <img alt="surajondev | LogRocket"  style="border-radius:50%;margin-left:10px;" src="https://bit.ly/34pCfMW" width="100px" />
  </div>
+
+---
+
+### 📓 Dev Blog Post
+You can read me on [surajondev.com](https://surajondev.com/). Here are some of my blog from the website.
+
+- [🎁40+ Useful Resources for Mastering Web](https://surajondev.com/2021/04/12/40-useful-resources-for-mastering-web%f0%9f%8e%81/)
+- [⚛️4 Best UI Framework For ReactJS](https://surajondev.com/2021/04/01/4-best-ui-framework-for-reactjs/)
+- [🌐20+ Open Source Project for Beginners](https://dev.to/surajondev/beginners-guide-to-starting-your-open-source-journey-1bgb)
+- [🎰 Algorithms Every Programmer Should Know](https://surajondev.com/2021/02/15/algorithms-every-programmer-should-know-part-1-searching-algorithm/)
+- [🏓 What's Your Hobbies Other Than Programming?](https://dev.to/surajondev/what-s-your-hobbies-other-than-programming-3j1d)
+- [📚 Read more blog post on SurajOnDev ....](https://surajondev.com/)
 
 ---
 
