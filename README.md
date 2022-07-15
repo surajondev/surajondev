@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-
-
 ### This is Suraj Vishwakarma 
 
 *Learning and helping other people to understand technology👨‍💻*
 
-## I am a Programmer and Technical Author.
+## I am a Web Developer and Technical Author.
 
 ---
 
