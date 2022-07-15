@@ -41,11 +41,17 @@ You can read me on [surajondev.com](https://surajondev.com/). Here are some of m
 
 ---
 
-## Github Stats
+### 🔖Daily Dev Bookmark
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+---
+
+## 📈Github Stats
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajondev&show_icons=true&theme=radical)
 
-## Top Languages
+## 🧑‍💻Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajondev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
