@@ -62,7 +62,7 @@ I have collaborated with:
 
 [<img align="left" alt="surajondev | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" />](https://dev.to/surajondev)
 [<img align="left" alt="surajondev | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />](https://twitter.com/surajondev)
-[<img align="left" alt="surajondev | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/surajsrv11)
-[<img align="left" alt="surajondev | SurajOnDev" width="22px" src="https://user-images.githubusercontent.com/67496096/114050006-8a2c8300-98a9-11eb-8bab-08118ce45d40.png" />](https://surajondev.wordpress.com)
+[<img align="left" alt="surajondev | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />](https://linkedin.com/surajsrv11)
+[<img align="left" alt="surajondev | SurajOnDev" width="22px" src="https://avatars.githubusercontent.com/u/67496096?v=4" />](https://surajondev.wordpress.com)
 
 
