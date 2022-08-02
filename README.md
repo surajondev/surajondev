@@ -18,7 +18,7 @@ I have collaborated with:
 
 <div style="display:flex" >
   <img alt="surajondev | Spurwing" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/87380658?s=280&v=4" width="100px" />
-  <img alt="surajondev | Daily Dev" style="border-radius:50%;margin-left:10px;" src="https://bit.ly/3L81K66" width="100px" />
+  <img alt="surajondev | Daily Dev" style="border-radius:50%;margin-left:10px;" src="https://play-lh.googleusercontent.com/ZejAkIHFw3knpmq77o6jJd9yDmzoqWOU-GmHZDIpxMjm8V30_WbR06VASibWPSxjc-W1" width="100px" />
 <img alt="surajondev | Aviyel" style="border-radius:50%;margin-left:10px;" src="https://bit.ly/34h5otG" width="100px" />
 <img alt="surajondev | Tuya Global" style="border-radius:50%;margin-left:10px;" src="https://bit.ly/3La8yAe" width="100px" />
 <img alt="surajondev | Jarchitech"  style="border-radius:50%;margin-left:10px;" src="https://bit.ly/3Jb00aB" width="100px" />
