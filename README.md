@@ -39,17 +39,6 @@ You can read me on [surajondev.com](https://surajondev.com/). Here are some of m
 
 ---
 
-## 📈Github Stats
-
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajondev&show_icons=true&theme=radical)
-
-## 🧑‍💻Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajondev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
 ### 🔗 Connect with me:
 
 [<img align="left" alt="surajondev | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" />](https://dev.to/surajondev)
