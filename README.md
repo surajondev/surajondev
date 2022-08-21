@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-### This is Suraj Vishwakarma!
+### This is Suraj Vishwakarma
 
 *Learning and helping other people to understand technology👨‍💻*
 
