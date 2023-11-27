@@ -30,9 +30,9 @@ I have collaborated with:
 ### 📓 Dev Blog Post
 You can read me on [surajondev.com](https://surajondev.com/). Here are some of my blog from the website.
 
-- [🎁40+ Useful Resources for Mastering Web](https://surajondev.com/2021/04/12/40-useful-resources-for-mastering-web%f0%9f%8e%81/)
-- [⚛️4 Best UI Framework For ReactJS](https://surajondev.com/2021/04/01/4-best-ui-framework-for-reactjs/)
-- [🌐20+ Open Source Project for Beginners](https://dev.to/surajondev/beginners-guide-to-starting-your-open-source-journey-1bgb)
+- [📝How To Create And Sell Notion Templates as a Developer](https://dev.to/surajondev/how-to-create-and-sell-notion-templates-as-a-developer-2gba)
+- [⛏️Transitioning to a Microservices Architecture: Overcoming Obstacles](https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09)
+- [🧑‍💻Understand Any Codebase Faster with these Tools](https://dev.to/surajondev/understand-any-codebase-faster-with-these-tools-4dll)
 - [🎰 Algorithms Every Programmer Should Know](https://surajondev.com/2021/02/15/algorithms-every-programmer-should-know-part-1-searching-algorithm/)
 - [🏓 What's Your Hobbies Other Than Programming?](https://dev.to/surajondev/what-s-your-hobbies-other-than-programming-3j1d)
 - [📚 Read more blog post on SurajOnDev ....](https://surajondev.com/)
