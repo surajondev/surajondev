@@ -34,7 +34,7 @@ You can read me on [surajondev.com](https://surajondev.com/). Here are some of m
 - [⛏️Transitioning to a Microservices Architecture: Overcoming Obstacles](https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09)
 - [🧑‍💻Understand Any Codebase Faster with these Tools](https://dev.to/surajondev/understand-any-codebase-faster-with-these-tools-4dll)
 - [🎰 Algorithms Every Programmer Should Know](https://surajondev.com/2021/02/15/algorithms-every-programmer-should-know-part-1-searching-algorithm/)
-- [🏓 What's Your Hobbies Other Than Programming?](https://dev.to/surajondev/what-s-your-hobbies-other-than-programming-3j1d)
+- [⚛️Improving Code Quality in React with JavaScript Best Practices](https://dev.to/surajondev/improving-code-quality-in-react-with-javascript-best-practices-3me)
 - [📚 Read more blog post on SurajOnDev ....](https://surajondev.com/)
 
 ---
