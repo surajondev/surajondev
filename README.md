@@ -39,6 +39,12 @@ You can read my articles on [surajondev.com](https://surajondev.com/). Here are 
 
 ---
 
+### 📈 My Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surajondev&show_icons=true&theme=gotham" alt="surajondev" />
+
+---
+
 ### 🔗 Connect with me:
 
 [<img align="left" alt="surajondev | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" />](https://dev.to/surajondev)
