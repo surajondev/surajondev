@@ -28,7 +28,7 @@ I have collaborated with:
 ---
 
 ### 📓 Dev Blog Post
-You can read me on [surajondev.com](https://surajondev.com/). Here are some of my blog from the website.
+You can read my articles on [surajondev.com](https://surajondev.com/). Here are some of my blog from the website.
 
 - [📝How To Create And Sell Notion Templates as a Developer](https://dev.to/surajondev/how-to-create-and-sell-notion-templates-as-a-developer-2gba)
 - [⛏️Transitioning to a Microservices Architecture: Overcoming Obstacles](https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09)
