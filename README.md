@@ -23,7 +23,7 @@ Building fast, scalable web apps & helping developers understand complex concept
 
 ## 🚀 Experience
 
-**Frontend Developer** · [Effortless](https://effortless.so) *(Remote · Sep 2024 – Oct 2025)*
+**Frontend Developer** · Effortless *(Remote · Sep 2024 – Oct 2025)*
 - Built and owned core product modules from scratch
 - Delivered premium UI/UX across all devices
 - Improved rendering performance and state management efficiency
