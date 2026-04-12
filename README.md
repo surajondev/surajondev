@@ -14,7 +14,7 @@ Building fast, scalable web apps & helping developers understand complex concept
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.surajon.dev/Suraj_Vishwakarma_Frontend_Resume.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=surajondev&style=flat-square&color=blue)
-![Readers](https://img.shields.io/badge/Readers-1.1M%2B-FF6B35?style=flat-square)
+![Readers](https://img.shields.io/badge/Readers-1.5M%2B-FF6B35?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
 
 </div>
