@@ -86,10 +86,8 @@ Collaborated with: **Supabase · LogRocket · freeCodeCamp · daily.dev · Aviye
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajondev&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajondev&layout=compact&theme=gotham&hide_border=true" height="150" />
-</div>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=surajondev)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajondev&theme=gotham)
 
 ---
 
